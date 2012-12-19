@@ -1,7 +1,7 @@
 bootstrap-example
 =================
 
-Simple HTML page of Responsive Design
+Simple HTML page with Responsive Design
 
 =================
 
